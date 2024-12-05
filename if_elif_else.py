@@ -1,3 +1,5 @@
+# Menentukan bilangan ganjil atau genap
+
 # Meminta pengguna untuk memasukkan angka
 angka = int(input("Masukkan sebuah angka: "))
 
